@@ -53,8 +53,8 @@ fs.readFile("random.txt", "utf8", function(error, data) {
 var Spotify = require('node-spotify-api');
  
 var spotify = new Spotify({
-  id: <your spotify client id>,
-  secret: <your spotify client secret>
+  id: <e2eb888cdd8f488aba67a753da303502>,
+  secret: <57f6c0866af84c44b9eaf1fd20fff754>
 });
  
 spotify
