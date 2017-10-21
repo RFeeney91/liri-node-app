@@ -1,4 +1,4 @@
-
+var request = require("./keys.js");
 // Include the request npm package (Don't forget to run "npm install request" in this folder first!)
 var request = require("request");
 
